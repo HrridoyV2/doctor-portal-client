@@ -8,4 +8,4 @@
 - People can easily appoint a doctor respectively their physical illness
 - Appointment process is very easy, and have Patient dashboard where people can easily see their appointments after booking
 - There is also a admin dashboard, so that admin can easily see all appointments, add new doctor
-## Used Technoloy: `React`, `React-router`, `Firebase`, `Bootstrap`, `Stripe`, `React-Form-Hook`, `Fontawesome`
+## Used Technoloy: `React`, `React-router`, `Firebase`, `Bootstrap`, `React-Form-Hook`, `Fontawesome`
