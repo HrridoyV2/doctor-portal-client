@@ -9,3 +9,5 @@
 - Appointment process is very easy, and have Patient dashboard where people can easily see their appointments after booking
 - There is also a admin dashboard, so that admin can easily see all appointments, add new doctor
 ## Used Technoloy: `React`, `React-router`, `Firebase`, `Bootstrap`, `React-Form-Hook`, `Fontawesome`
+
+# [Resume Link](https://drive.google.com/file/d/1WbxGWa7vjGYUeyp7ex6QgOYhkk2iaBmV/view?usp=sharing)
